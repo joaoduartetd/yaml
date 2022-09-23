@@ -1,0 +1,4 @@
+number,carrier,country_code,type,billable
+72725725726868,BICS_EU,FR,local,false
+8787825724687,BICS_EU,PT,mobile,false
+9797392626982,BICS_EU,BE,local,false
